@@ -13,7 +13,7 @@ Go to the [Releases](https://github.com/shakil807g/NewzCompose/releases) to down
 
 ## Screenshots
 <p align="left">
-<img src="/demo/device-2021-01-11-125210.gif" width="32%"/>
+<img src="/demo/demo.gif" width="32%"/>
 </p>
 
 # Note
