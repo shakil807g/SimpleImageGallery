@@ -9,7 +9,7 @@ An simple image gallery app utilizing Unsplash API to showcase modern Android de
 </p>
 
 ## Download
-Go to the [Releases](https://github.com/shakil807g/NewzCompose/releases) to download the latest APK.
+Go to the [Releases](https://github.com/shakil807g/SimpleImageGallery/releases) to download the latest APK.
 
 ## Screenshots
 <p align="left">
