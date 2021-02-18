@@ -9,17 +9,13 @@ An simple image gallery app utilizing Unsplash API to showcase modern Android de
 </p>
 
 ## Download
-Go to the [Releases](https://github.com/shakil807g/NewzCompose/releases) to download the latest APK.
+Go to the [Releases](https://github.com/shakil807g/SimpleImageGallery/releases) to download the latest APK.
 
 ## Screenshots
 <p align="left">
 <img src="/demo/demo.gif" width="32%"/>
 </p>
 
-# Note
-This repo is missing api key for [newsapi](https://newsapi.org)
-get the api key from [newsapi](https://newsapi.org) and do following steps
-- Add **api_key** property in **local.properties** E.g api_key="54e494XXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
