@@ -16,10 +16,6 @@ Go to the [Releases](https://github.com/shakil807g/NewzCompose/releases) to down
 <img src="/demo/demo.gif" width="32%"/>
 </p>
 
-# Note
-This repo is missing api key for [newsapi](https://newsapi.org)
-get the api key from [newsapi](https://newsapi.org) and do following steps
-- Add **api_key** property in **local.properties** E.g api_key="54e494XXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
