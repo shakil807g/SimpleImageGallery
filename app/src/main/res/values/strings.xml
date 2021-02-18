@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleImageGallery</string>
+    <string name="search_placeholder">Search...</string>
+</resources>
